@@ -9,7 +9,7 @@ const experienciasLaborales = [
     },
     {
         nombre: 'Empleo 2',
-        fecha: '10/2022 - 02/2023',
+        fecha: '10/2022 - 02/2024',
         puesto: 'mecanico jr',
         labores: ['labor 1', '3452345 2'],
         contacto: '351-3678890'
