@@ -1,0 +1,73 @@
+:root {
+    --blue: #1e90ff;
+    --blue-marine: rgb(38, 47, 63);
+    --dark-blue-marine: rgb(22, 25, 31);
+    --color-cv: rgb(255, 151, 47);
+    --white: #ffffff;
+    --gray: #ccc;
+}
+
+body {
+    background-color: #666;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    background-color: #fff;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
+
+.nombre .nombre-apellido {
+    font-weight: 700;
+}
+
+.bg-profile {
+    background-color: var(--blue-marine);
+    color: white;
+}
+.contacto p {
+    margin: 0;
+}
+
+.contacto .title, .habilidades .title {
+    background-color: var(--dark-blue-marine);
+    text-transform: uppercase;
+    font-size: .7rem;
+    color: var(--color-cv);
+}
+
+.contacto .dato {
+    font-size: .8rem;
+    opacity: .6;
+}
+
+.contacto .dato a {
+    color: white;
+}
+
+.habilidades .dato {
+    font-size: .8rem;
+    opacity: .6;
+}
+
+.profile-content {
+    font-size: .8rem;
+}
+
+.profile-content .title {
+    border-top: solid .5px var(--gray);
+    border-bottom: solid .5px var(--gray);
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+
+.profile-content .title i {
+    color: var(--color-cv);
+    margin-right: .8rem;
+}
+
+.progress {
+    background-color: var(--dark-blue-marine);
+    border-radius: 0;
+    height: .6rem;
+}
