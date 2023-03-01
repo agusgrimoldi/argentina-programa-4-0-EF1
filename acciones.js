@@ -1,24 +1,24 @@
 // DATOS DE MIS EXPERICIAAS
 const experienciasLaborales = [
     {
-        nombre: 'Empleo 1',
+        nombre: 'Club Tablada',
         fecha: '11/2021 - 07/2022',
-        puesto: 'ayudante de cocina',
-        labores: ['labor 1', 'labooo3rf ', 'dfsafds 3', 'labor 44444'],
+        puesto: 'Encargado',
+        labores: ['atencion al cliente', 'apertura y cierre de caja ', 'agenda telefonica', 'repocicion de productos'],
         contacto: '351-3556677'
     },
     {
-        nombre: 'Empleo 2',
+        nombre: 'Espacio Productivo Upa',
         fecha: '10/2022 - 02/2024',
-        puesto: 'mecanico jr',
-        labores: ['labor 1', '3452345 2'],
+        puesto: 'Encargado',
+        labores: ['Apertura y cierre de caja', 'Atencion al cliente'],
         contacto: '351-3678890'
     },
     {
-        nombre: 'Empleo 3',
+        nombre: 'Acompañante terapeutico',
         fecha: '10/2022 - 02/2023',
-        puesto: 'mecanico jr',
-        labores: ['labor 1', 'labor 2', '5345523 3'],
+        puesto: 'Acompañante',
+        labores: ['Acompañar', 'Seguimiento de paciente', 'Entrega de parte diario al psicologo a cargo '],
         contacto: '351-3678890'
     },
 ]
